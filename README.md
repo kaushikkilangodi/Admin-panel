@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 
 #Demo 
-adminn-panel.vercel.app
+- [adminn-panel.vercel.app](https://adminn-panel.vercel.app/)https://adminn-panel.vercel.app/
